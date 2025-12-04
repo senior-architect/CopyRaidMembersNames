@@ -1,6 +1,10 @@
 # CopyRaidMembersNames
 Копирует ники всех членов рейда (команда в чат /crmn)
 
+---
+
+Скачать: https://github.com/senior-architect/CopyRaidMembersNames/raw/refs/heads/master/CopyRaidMembersNames.zip
+
 
 ---
 Вводим в чат команду `/crmn` и в центре экрана появляется текстовое поле, в котором указаны ники всех членов рейда. 
