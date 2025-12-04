@@ -7,7 +7,7 @@
 
 Для того чтобы их скопировать жмём CTRL+C
 
-![https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg](https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg "https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg")
+![https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg](https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg "/crmn")
 
 ---
 
