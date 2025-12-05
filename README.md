@@ -11,7 +11,7 @@
 
 Для того чтобы их скопировать жмём CTRL+C
 
-![https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg](https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/2.jpg "/crmn")
+![https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/screenshot.jpg](https://raw.githubusercontent.com/senior-architect/CopyRaidMembersNames/refs/heads/demo/screenshot.jpg "/crmn")
 
 ---
 
