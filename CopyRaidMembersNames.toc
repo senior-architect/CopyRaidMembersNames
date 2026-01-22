@@ -2,4 +2,5 @@
 ## Author: Santiago
 ## Title: CopyRaidMembersNames
 ## Notes: Копирует ники всех членов рейда (команда в чат /crmn)
+## SavedVariables: CopyRaidMembersNames
 CopyRaidMembersNames.lua 
